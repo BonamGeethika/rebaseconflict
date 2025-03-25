@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is added in remote repository
+=======
+this is added in feature branch
+
+>>>>>>> 0b14959 (f2 is added)
